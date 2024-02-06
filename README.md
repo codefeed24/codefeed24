@@ -1,6 +1,6 @@
 Hi,
 This is `CodeFeed.tech`
 
-[Click Here](https://codefeed.tech/) to visit our site.
+<a href="https://codefeed.tech/" style="text-decoration: none; color: #ff9d00;"> Click Here </a> to visit our site.
 
 Thank You. ❤️
